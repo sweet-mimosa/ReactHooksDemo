@@ -6,6 +6,6 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Example />
-    <Example2 />
+    {/* <Example2 /> */}
   </React.StrictMode>
 );
