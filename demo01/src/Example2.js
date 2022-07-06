@@ -8,7 +8,6 @@ function Example2(){
             <p>Sana今年:{age}岁</p>
             <p>性别:{sex}</p>
             <p>工作是:{work}</p>
-
         </div>
     )
 }
